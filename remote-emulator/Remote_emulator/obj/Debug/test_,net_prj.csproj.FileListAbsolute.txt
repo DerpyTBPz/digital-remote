@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\bin\Debug\test_,net_prj.exe.config
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\bin\Debug\test_,net_prj.exe
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\bin\Debug\test_,net_prj.pdb
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test_,net_prj.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test__net_prj.Properties.Resources.resources
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test_,net_prj.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test_,net_prj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test_,net_prj.exe
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test_,net_prj.pdb
+C:\Users\Admin\source\repos\test_,net_prj\test_,net_prj\obj\Debug\test__net_prj.mainForm.resources
